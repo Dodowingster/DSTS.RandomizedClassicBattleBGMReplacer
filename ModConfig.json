@@ -1,0 +1,98 @@
+{
+  "ModId": "DSTS.RandomizedClassicBattleBGMReplacer",
+  "ModName": "Randomized Classic Battle Theme(s) Replacer",
+  "ModAuthor": "Dodowingster",
+  "ModVersion": "0.8",
+  "ModDescription": "Replaces and Randomize multiple Battle Themes into Classic Digimon World Titles including Digital Card Battle and Rumble Arena",
+  "ModDll": "",
+  "ModIcon": "oops all songs.png",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "DSTS.RandomizedClassicBattleBGMReplacer.ReleaseMetadata.json",
+  "PluginData": {
+    "GitHubDependencies": {
+      "IdToConfigMap": {
+        "DSTS.ModLoader": {
+          "Config": {
+            "UserName": "RyoTune",
+            "RepositoryName": "DSTS.ModLoader",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "DSTS.ModLoader.ReleaseMetadata.json"
+        },
+        "DSTS.RyoFramework": {
+          "Config": {
+            "UserName": "RyoTune",
+            "RepositoryName": "DSTS.RyoFramework",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "DSTS.RyoFramework.ReleaseMetadata.json"
+        },
+        "Ryo.Reloaded": {
+          "Config": {
+            "UserName": "RyoTune",
+            "RepositoryName": "Ryo",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "Ryo.Reloaded.ReleaseMetadata.json"
+        },
+        "MVGL.FileLoader.Reloaded": {
+          "Config": {
+            "UserName": "RyoTune",
+            "RepositoryName": "MVGL.FileLoader",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "MVGL.FileLoader.Reloaded.ReleaseMetadata.json"
+        },
+        "Reloaded.Memory.SigScan.ReloadedII": {
+          "Config": {
+            "UserName": "Reloaded-Project",
+            "RepositoryName": "Reloaded.Memory.SigScan",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "Reloaded.Memory.SigScan.ReloadedII.ReleaseMetadata.json"
+        },
+        "reloaded.sharedlib.hooks": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "Reloaded.SharedLib.Hooks.ReloadedII",
+            "UseReleaseTag": true,
+            "AssetFileName": "reloaded.sharedlib.hooks.zip"
+          },
+          "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
+        },
+        "SharedScans.Reloaded": {
+          "Config": {
+            "UserName": "RyoTune",
+            "RepositoryName": "SharedScans",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "SharedScans.Reloaded.ReleaseMetadata.json"
+        }
+      }
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "DSTS.ModLoader",
+    "DSTS.RyoFramework",
+    "Ryo.Reloaded"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "digimon story time stranger.exe"
+  ],
+  "ProjectUrl": ""
+}
