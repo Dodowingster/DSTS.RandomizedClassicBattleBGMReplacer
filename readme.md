@@ -30,9 +30,16 @@ It replaces and randomizes the following tracks:
 
 [Digimon Rumble Arena The Biggest Dreamer](https://youtu.be/tBS70leI4YY) & [Digimon Rumble Arena Out in the Country](https://youtu.be/8KDzQmA4WeQ)
 
+!! IMPORTANT !!
+Engage the Anomaly in the Music Settings is a different track than the actual default battle themes as it is a compilation of all 3 Time Stranger Default Battle Theme in one. My Mod only replaces the Random 3 not the compilation track itself.
+
 **Looming Threat**
 
 [Digimon World Major Battle](https://youtu.be/zn2LH1sGAks) & [Digimon World Next Order Major Battle](https://youtu.be/PHiz-dJKq4Q)
+
+## **\!\! IMPORTANT \!\!**
+
+**Engage the Anomaly** in the **Music Settings is a different track** than the actual default battle themes as it is a **compilation of all 3 Time Stranger Default Battle Theme** in one. My Mod only **replaces the Random 3** not the compilation track itself.
 
 -----
 
@@ -52,13 +59,24 @@ It replaces and randomizes the following tracks:
 
 ![gif](/img/Installation.gif)
 
-1.  Download the zip file and drag and drop to Reloaded II
-2.  Enable the mod by clicking the minus(-) icon into plus(+) and drag the mods according to priority as seen from the Gif
-3.  Launch the game through Reloaded II
-4.  Go to Battle
-5.  Vibin' and kick some ass
+1.  **Download** the mod's zip file **(no need to extract it)**
+2.  **Install the Mod:** **Drag and drop** the **zipped file directly** onto the main **Reloaded II application** window
+3.  **Enable and Prioritize:** In the **Digimon Story Time Stranger mod list**, click the status indicator (**minus icon -**) to **enable** the mod (it will change to a **plus icon +**). Then, **drag the mod** to ensure its priority is correctly set, matching the order seen in the installation GIF.
+4.  **Launch the Game:** Click **Launch Application** in Reloaded II.
+5.  **Enjoy:** Go to a battle, start vibin', and kick some ass\!
 
-**Credits:**
+## **FAQ:**
+
+**Q**: How do I know if this mod worked or I installed this mod correctly?
+**A**: Open your music settings and check the replaced/addon songs like **UPPER MIND** or **Looming Threat**. Testing on **Engage the Anomaly** in the in the Music Settings will still play the default battle theme because of the reasons I already stated above.
+
+**Q**: Can you randomize the paid **DLC songs**?
+**A**: Can but I wouldn't post it **publicly** as that would be against copyright law against **BANDAI NAMCO**
+
+**Q**: I don't like x track, can I safely **delete them** from your mod, it wouldn't break anything right?
+**A**: It would break my heart. Lol. But **YES YOU CAN**. Delete whatever track you don't want to hear is completely fine\!
+
+### Credits:
 
   * [RyoTune](https://gamebanana.com/members/2986979) for the awesome RyoFramework
   * [khinsider](https://downloads.khinsider.com/) for resources of classic soundtracks
