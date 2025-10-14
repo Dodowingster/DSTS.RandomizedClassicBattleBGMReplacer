@@ -82,6 +82,10 @@
           "ReleaseMetadataName": "SharedScans.Reloaded.ReleaseMetadata.json"
         }
       }
+    },
+    "GameBanana": {
+      "ItemType": "Sound",
+      "ItemId": 82541
     }
   },
   "IsUniversalMod": false,
@@ -94,5 +98,7 @@
   "SupportedAppId": [
     "digimon story time stranger.exe"
   ],
-  "ProjectUrl": ""
+  "ProjectUrl": "https://gamebanana.com/sounds/82541",
+  "CreatorUrl": "https://gamebanana.com/members/4857381",
+  "IsSeparator": false
 }
