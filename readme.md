@@ -30,7 +30,7 @@ It replaces and randomizes the following tracks:
   - [Digimon Story SunMoon Battle Theme](https://youtu.be/jHEZdxExk-k?si=hc6EGEagrkJh5OM0)
   - [Digimon World Championship Fall Battle](https://youtu.be/6LtNqHP6gII?si=MnFEuMOzvg12jr9K)
 
-  - **Battle of Illiad** (bgm929) - Digital World Battle Theme
+- **Battle of Illiad** (bgm929) - Digital World Battle Theme
   - [Digimon World 3 Battle Theme](https://youtu.be/RA4B73ezavA)
   - [Digimon Digital Card Battle Fairy Dizzy](https://youtu.be/Rp_b2bhEhq0)
 
@@ -62,6 +62,8 @@ It replaces and randomizes the following tracks:
 - **Outer Dungeon Time Attack / Ladder Battle** (bgm954)
   - [Digimon World 3 Leader Boss Theme](https://youtu.be/TU2o_2Pwgjk?si=dW5YlFamAYNRwcYO)
 -----
+
+[![ko-fi](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW94YnZ1MjNnYWR1OHpwaGd5NXBkemlkaDh5ZXVjdmwxMTl4MGd3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bZgsAwXUIVU2tcKn7s/giphy.gif)](https://ko-fi.com/C1C6R677O)![Endorse](https://raw.githubusercontent.com/Dodowingster/DSTS.BeNiceToYourDigimonDCO/refs/heads/main/img/Tyrannomon%20and%20Monochromon%20Endorse.gif)
 
 ## **Installation:**
 
