@@ -2,7 +2,7 @@
   "ModId": "DSTS.RandomizedClassicBattleBGMReplacer",
   "ModName": "Randomized Classic Battle Theme(s) Replacer",
   "ModAuthor": "Dodowingster",
-  "ModVersion": "0.8",
+  "ModVersion": "0.9",
   "ModDescription": "Replaces and Randomize multiple Battle Themes into Classic Digimon World Titles including Digital Card Battle and Rumble Arena",
   "ModDll": "",
   "ModIcon": "oops all songs.png",
@@ -35,15 +35,6 @@
             "AssetFileName": "Mod.zip"
           },
           "ReleaseMetadataName": "DSTS.RyoFramework.ReleaseMetadata.json"
-        },
-        "RemixToolkit.Reloaded": {
-          "Config": {
-            "UserName": "RyoTune",
-            "RepositoryName": "RemixToolkit",
-            "UseReleaseTag": false,
-            "AssetFileName": "Mod.zip"
-          },
-          "ReleaseMetadataName": "RemixToolkit.Reloaded.ReleaseMetadata.json"
         },
         "Ryo.Reloaded": {
           "Config": {
