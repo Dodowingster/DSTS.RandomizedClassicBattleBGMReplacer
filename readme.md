@@ -16,43 +16,51 @@ It replaces and randomizes the following tracks:
 
 -----
 
-## **RANDOMIZED Normal Battle(s)**
+## **Replaced Tracks**
 
-**Engage the Anomaly 1**
+- **Engage the Anomaly 1** (bgm801)
+  - [Digimon Adventure PSP Battle Theme](https://youtu.be/tWT9k6a5BWE)
+  - [Digimon World Championship Spring Battle](https://youtu.be/yX2PzoD4Wpg)
 
-[Digimon Adventure PSP Battle Theme](https://youtu.be/tWT9k6a5BWE) & [Digimon World Championship Free Battle](https://youtu.be/yX2PzoD4Wpg)
+- **Engage the Anomaly 2** (bgm802)
+  - [Digimon Story DS Battle Theme](https://youtu.be/gyaHK-eLHcE?si=Y_Fy9Zmy0KznPEBJ)
+  - [Digimon World Championship Summer Battle](https://youtu.be/zFY-swlkUEc?si=ES2dXSTsYGW0mYjI)
 
-**Engage the Anomaly 2**
+- **Engage the Anomaly 3** (bgm803)
+  - [Digimon Story SunMoon Battle Theme](https://youtu.be/jHEZdxExk-k?si=hc6EGEagrkJh5OM0)
+  - [Digimon World Championship Fall Battle](https://youtu.be/6LtNqHP6gII?si=MnFEuMOzvg12jr9K)
 
-[Digimon Digital Card Battle Fairy Dizzy](https://youtu.be/Rp_b2bhEhq0) & [Digimon World 3 Battle Theme](https://youtu.be/RA4B73ezavA)
+  - **Battle of Illiad** (bgm929) - Digital World Battle Theme
+  - [Digimon World 3 Battle Theme](https://youtu.be/RA4B73ezavA)
+  - [Digimon Digital Card Battle Fairy Dizzy](https://youtu.be/Rp_b2bhEhq0)
 
-**Engage the Anomaly 3**
+### Boss & Special Battle Themes
+- **Enjoy The Fight** (bgm201)
+  - [Digimon Rumble Arena Fight For My Friends](https://youtu.be/-UmUqqkebYk?si=NLL9ZqH9wnQKwavE)
 
-[Digimon Rumble Arena The Biggest Dreamer](https://youtu.be/tBS70leI4YY) & [Digimon Rumble Arena Out in the Country](https://youtu.be/8KDzQmA4WeQ)
+- **Paradise Colloseum Fight** (bgm222)
+  - [Digimon World 2 First Boss Battle Theme](https://youtu.be/mArKPFXdiiI?si=HEJj2TSbBiQ4nfmO)
 
-!! IMPORTANT !!
-Engage the Anomaly in the Music Settings is a different track than the actual default battle themes as it is a compilation of all 3 Time Stranger Default Battle Theme in one. My Mod only replaces the Random 3 not the compilation track itself.
+- **Looming Threat** (bgm307)
+  - [Digimon Story DS Boss Theme](https://youtu.be/hFMmVXYdgMk?si=nkWLPDoKXGbByhd5)
 
-**Looming Threat**
+- **UPPER MIND** (bgm312)
+  - [Digimon World ReDigitize Decode Mt. Infinity Boss Theme](https://youtu.be/Pt8wYhC6ISA?si=7-14s0moXPm87CEJ)
 
-[Digimon World Major Battle](https://youtu.be/zn2LH1sGAks) & [Digimon World Next Order Major Battle](https://youtu.be/PHiz-dJKq4Q)
+- **Engage the Anomalies** (bgm805) - Music Settings & SideQuest Boss Theme
+  - [Digimon World Major Battle](https://youtu.be/zn2LH1sGAks)
+  - [Digimon World Next Order Major Battle](https://youtu.be/PHiz-dJKq4Q)
 
-## **\!\! IMPORTANT \!\!**
+- **Lesser Boss Theme** (bgm807)
+  - [Digimon World 2 Boss Theme](https://youtu.be/hAbilojz4VA)
+  - [Digimon World 3 Boss Theme](https://youtu.be/2r-IVc4AezA)
 
-**Engage the Anomaly** in the **Music Settings is a different track** than the actual default battle themes as it is a **compilation of all 3 Time Stranger Default Battle Theme** in one. My Mod only **replaces the Random 3** not the compilation track itself.
+- **Endure the Anomalies** (bgm927)
+  - [Digimon Rumble Arena The Biggest Dreamer](https://youtu.be/tBS70leI4YY)
+  - [Digimon Rumble Arena Out in the Country](https://youtu.be/8KDzQmA4WeQ)
 
------
-
-## **RANDOMIZED Boss battle(s)**
-
-**Lesser Boss Battle Theme**
-
-[Digimon World 2 Boss Theme](https://youtu.be/hAbilojz4VA) & [Digimon World 3 Boss Theme](https://youtu.be/2r-IVc4AezA)
-
-**UPPER MIND**
-
-[Digimon World ReDigitize Decode Mt. Infinity Boss Theme](https://youtu.be/oIYRp7xWXDE)
-
+- **Outer Dungeon Time Attack / Ladder Battle** (bgm954)
+  - [Digimon World 3 Leader Boss Theme](https://youtu.be/TU2o_2Pwgjk?si=dW5YlFamAYNRwcYO)
 -----
 
 ## **Installation:**
@@ -68,7 +76,7 @@ Engage the Anomaly in the Music Settings is a different track than the actual de
 ## **FAQ:**
 
 **Q**: How do I know if this mod worked or I installed this mod correctly?
-**A**: Open your music settings and check the replaced/addon songs like **UPPER MIND** or **Looming Threat**. Testing on **Engage the Anomaly** in the in the Music Settings will still play the default battle theme because of the reasons I already stated above.
+**A**: Open your music settings and check the replaced/addon songs like **UPPER MIND** or **Looming Threat**. ~~Testing on **Engage the Anomaly** in the in the Music Settings will still play the default battle theme because of the reasons I already stated above.~~
 
 **Q**: Can you randomize the paid **DLC songs**?
 **A**: Can but I wouldn't post it **publicly** as that would be against copyright law against **BANDAI NAMCO**

@@ -11,8 +11,8 @@
   "ModNativeDll32": "",
   "ModNativeDll64": "",
   "Tags": [],
-  "CanUnload": null,
-  "HasExports": null,
+  "CanUnload": false,
+  "HasExports": false,
   "IsLibrary": false,
   "ReleaseMetadataFileName": "DSTS.RandomizedClassicBattleBGMReplacer.ReleaseMetadata.json",
   "PluginData": {
@@ -35,6 +35,15 @@
             "AssetFileName": "Mod.zip"
           },
           "ReleaseMetadataName": "DSTS.RyoFramework.ReleaseMetadata.json"
+        },
+        "RemixToolkit.Reloaded": {
+          "Config": {
+            "UserName": "RyoTune",
+            "RepositoryName": "RemixToolkit",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "RemixToolkit.Reloaded.ReleaseMetadata.json"
         },
         "Ryo.Reloaded": {
           "Config": {
