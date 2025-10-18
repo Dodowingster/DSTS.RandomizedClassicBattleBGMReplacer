@@ -15,7 +15,6 @@ This is a **Work In Progress** music mod that aims to enhance the combat experie
 It replaces and randomizes the following tracks:
 
 -----
-
 ## **Replaced Tracks**
 
 - **Engage the Anomaly 1** (bgm801)
@@ -33,10 +32,15 @@ It replaces and randomizes the following tracks:
 - **Battle of Illiad** (bgm929) - Digital World Battle Theme
   - [Digimon World 3 Battle Theme](https://youtu.be/RA4B73ezavA)
   - [Digimon Digital Card Battle Fairy Dizzy](https://youtu.be/Rp_b2bhEhq0)
+  - [Digimon World Next Order Battle Theme](https://youtu.be/tHS9ohlRivs?si=MYuHl9rpoYZjLYV_)
+  - [Digimon Story Lost Evolution Battle Theme](https://youtu.be/ZlvxJ1lC-Fo?si=y1xTHrJbrygUUfzB)
 
 ### Boss & Special Battle Themes
 - **Enjoy The Fight** (bgm201)
   - [Digimon Rumble Arena Fight For My Friends](https://youtu.be/-UmUqqkebYk?si=NLL9ZqH9wnQKwavE)
+
+- **Urban Warfare** (bgm202)
+  - [Digimon Rumble Arena Reapermon's Den](https://youtu.be/iepQLSIp5NQ?si=eei58wWiIYwbYRNB)
 
 - **Paradise Colloseum Fight** (bgm222)
   - [Digimon World 2 First Boss Battle Theme](https://youtu.be/mArKPFXdiiI?si=HEJj2TSbBiQ4nfmO)
@@ -50,6 +54,7 @@ It replaces and randomizes the following tracks:
 - **Engage the Anomalies** (bgm805) - Music Settings & SideQuest Boss Theme
   - [Digimon World Major Battle](https://youtu.be/zn2LH1sGAks)
   - [Digimon World Next Order Major Battle](https://youtu.be/PHiz-dJKq4Q)
+  - [Digimon Digital Card Battle UNLEASHED!](https://youtu.be/tA0cCcMq19o?si=B7apM3t5F8j0xUHb)
 
 - **Lesser Boss Theme** (bgm807)
   - [Digimon World 2 Boss Theme](https://youtu.be/hAbilojz4VA)
@@ -59,8 +64,22 @@ It replaces and randomizes the following tracks:
   - [Digimon Rumble Arena The Biggest Dreamer](https://youtu.be/tBS70leI4YY)
   - [Digimon Rumble Arena Out in the Country](https://youtu.be/8KDzQmA4WeQ)
 
+- **Fierce Battle of Iliad** (bgm928)
+  - [Digimon World 2 Guardian Battle](https://youtu.be/6gCWXbWGoM0?si=mtXtuIOZqR2zZDQq)
+  - [Digimon Story SunMoon Boss Theme](https://youtu.be/r2t79hY84NY?si=dEZZCIVugwYonx7r)
+  - [Digimon Survive Boss Theme](https://youtu.be/QgD6-4ClDzU?si=Inqz9M4AHlJwTnxJ)
+
+- **Messenger of the Titans** (bgm930)
+  - [Digimon World Next Order Digital Grit](https://youtu.be/4QIBwHwQzjA?si=_-dL7u5gwEjbz4z_)
+
+- **The Deities of Justice** (bgm932)
+  - [Digimon Rumble Arena Badguy's Festival](https://youtu.be/r9T9vPKORF0?si=afpeAL7BQkZFA-Zw)
+
 - **Outer Dungeon Time Attack / Ladder Battle** (bgm954)
   - [Digimon World 3 Leader Boss Theme](https://youtu.be/TU2o_2Pwgjk?si=dW5YlFamAYNRwcYO)
+
+- **Outer Dungeon "Survival" mode Battle** (bgm955)
+  - [Digimon World ReDigitize Decode Battle 3](https://youtu.be/rq2bydx0PEM?si=OZIqB-dZBNhtTN3l)
 -----
 
 [![ko-fi](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW94YnZ1MjNnYWR1OHpwaGd5NXBkemlkaDh5ZXVjdmwxMTl4MGd3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bZgsAwXUIVU2tcKn7s/giphy.gif)](https://ko-fi.com/C1C6R677O)![Endorse](https://raw.githubusercontent.com/Dodowingster/DSTS.BeNiceToYourDigimonDCO/refs/heads/main/img/Tyrannomon%20and%20Monochromon%20Endorse.gif)
